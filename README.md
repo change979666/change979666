@@ -10,7 +10,6 @@ I build practical developer tools, AI-agent integrations, browser automation uti
 ## E-commerce & Business Systems
 
 - **SimpleStock** — PyQt6 + FastAPI client/server inventory management app: products, stock movements, sales, shipments, analytics, audit logs. [repository](https://github.com/change979666/simple-stock-desktop)
-- **Jewelry** *(private)* — KSA/UAE jewelry storefront built with Astro and Cloudflare: English/Arabic RTL, product catalog, cart, COD checkout, admin order management. [repository](https://github.com/change979666/Jewelry)
 
 ## Python Desktop Tools & Automation
 
@@ -41,6 +40,7 @@ These smaller projects are shared as practical examples and historical snapshots
 ### Browser Extensions & Automation
 
 - **[shopee-price-editor](https://github.com/change979666/shopee-price-editor)** — Chromium extension for bulk editing discount prices on authorized Shopee pages.
+- **[multi-platform-order-exporter](https://github.com/change979666/multi-platform-order-exporter)** — Chromium extension that aggregates seller orders from TikTok Shop, Lazada, and Shopee into one unified export (bundles the third-party SheetJS library).
 - **[tk-order-picker](https://github.com/change979666/tk-order-picker)** — TikTok Shop order-picking helper that highlights Seller SKUs and multi-quantity rows.
 - **[tiki-downloader](https://github.com/change979666/tiki-downloader)** — Desktop video-download client; availability depends on external services and users must respect creators' rights and platform terms.
 - **[plugin-interaction-bridge](https://github.com/change979666/plugin-interaction-bridge)** — Experimental local Python/Chrome extension bridge for YouTube and TikTok workflows; use only in authorized, platform-compliant scenarios.
